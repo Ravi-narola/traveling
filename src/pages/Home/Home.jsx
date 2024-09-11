@@ -77,7 +77,6 @@ const Home = () => {
       image:tour1,
       link: 'Ceking Rice Terrace',
       shortDes:'',
-      link:"/tours",
       location:"Island in Indonesia",
   },
   {
@@ -87,7 +86,6 @@ const Home = () => {
       image:tour2,
       link: 'Tokyo Skytree',
       shortDes:'',
-      link:"/tours",
       location:"Capital of Japan",
   },
   {
@@ -97,7 +95,6 @@ const Home = () => {
       image:tour3,
       link: 'The Grand Palace',
       shortDes:'',
-      link:"/tours",
       location:"Capital of Thailand",
   },
   {
@@ -107,7 +104,6 @@ const Home = () => {
       image:tour4,
       link: 'Isla Contoy',
       shortDes:'',
-      link:"/tours",
       location:"City in Mexico",
   },
   {
@@ -117,7 +113,6 @@ const Home = () => {
       image:tour5,
       link: 'Hòn Tằm',
       shortDes:'',
-      link:"/tours",
       location:"City in Vietnam",
   },
   {
@@ -127,7 +122,6 @@ const Home = () => {
       image:tour6,
       link: 'Khao Rang',
       shortDes:'4 tours and activities',
-      link:"/tours",
       location:"Thailand"
   },
   ];
