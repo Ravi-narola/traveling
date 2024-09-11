@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import {
   Container,
   Row,
@@ -18,10 +18,6 @@ import { tourDetails } from "../../components/utils/data";
 import "./tour.css";
 
 function TourDetails() {
-  useEffect(() => {
-    // window.scrollTo(0, 0);
-    // document.title = "Tour Details  ";
-  }, []);
 
   return (
     <>
